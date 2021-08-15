@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/banner.jpe">
+<img src="https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/banner.jpeg">
 </p>
 
 Organisation: [GFOSS Open Technology Alliance](https://github.com/eellak/) <br/>
