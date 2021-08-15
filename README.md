@@ -1,13 +1,11 @@
 
 <p align="center">
-
-![banner](https://gfoss.ellak.gr/wp-content/uploads/sites/24/2021/05/gsoc-gfoss.png)
-
+<img src="https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/banner.jpe">
 </p>
 
-Organisation: [GFOSS Open Technology Alliance](https://github.com/eellak/)
+Organisation: [GFOSS Open Technology Alliance](https://github.com/eellak/) <br/>
 Project: 
-MediaCMS - modern, fully featured video and media CMS
+MediaCMS - modern, fully featured video and media CMS <br/>
 Mentor: [Markos Gogoulos](https://github.com/mgogoulos)
 
 ## Abstract
