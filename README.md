@@ -56,6 +56,7 @@ The idea behind this tool is to act like a CLI based wrapper around already exis
 Link to PR - [https://github.com/mediacms-io/mediacms/pull/273](https://github.com/mediacms-io/mediacms/pull/273)<br/><br/>
 <img src="https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/cli.gif">
 <p align="center"> Glimpse of CLI tool</p>
+
 ## :computer: Pull Request Statistics
 A list of all the pull requests that I created during GSoC coding period:
 <table>
