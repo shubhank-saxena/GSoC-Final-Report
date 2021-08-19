@@ -22,7 +22,7 @@ The theme and goal was to improve the user experience as well as deployment expe
 Internationalization describes the process of designing products to meet the needs of users in many countries or designing them so they can be easily modified, to achieve this goal.<br/> 
 The endgoal of this project is to make sure that the project is as inclusive as possible for our evergrowing users from different geographies. This project's integration will open doors for us to make sure that further translations are easy and thus the community can support us for the same! <br/>
 This was achieved by using [react-i18next](https://react.i18next.com/) <br/>
-Link to the PR - [https://github.com/mediacms-io/mediacms/pull/251](https://github.com/mediacms-io/mediacms/pull/251)
+Link to the PR - [https://github.com/mediacms-io/mediacms/pull/251](https://github.com/mediacms-io/mediacms/pull/251) <br/>
 ![Language Translation]("https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/i18n.gif")
 
 ### Segregation of Dev and Prod envs
