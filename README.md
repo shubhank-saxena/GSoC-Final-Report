@@ -22,7 +22,8 @@ The theme and goal was to improve the user experience as well as deployment expe
 Internationalization describes the process of designing products to meet the needs of users in many countries or designing them so they can be easily modified, to achieve this goal.<br/> 
 The endgoal of this project is to make sure that the project is as inclusive as possible for our evergrowing users from different geographies. This project's integration will open doors for us to make sure that further translations are easy and thus the community can support us for the same! <br/>
 This was achieved by using [react-i18next](https://react.i18next.com/) <br/><br/>
-Link to the PR - [https://github.com/mediacms-io/mediacms/pull/251](https://github.com/mediacms-io/mediacms/pull/251) <br/>
+Link to the PR - [https://github.com/mediacms-io/mediacms/pull/251](https://github.com/mediacms-io/mediacms/pull/251) <br/><br/>
+
 <img src="https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/i18n.gif">
 <p align="center"> Glimpse of internationalization</p>
 
@@ -52,7 +53,7 @@ The idea behind this tool is to act like a CLI based wrapper around already exis
 - Checking various info and metadata about files for reference.
 - Bulk uploading files to server.
 <br/>
-Link to PR - [https://github.com/mediacms-io/mediacms/pull/273](https://github.com/mediacms-io/mediacms/pull/273)<br/>
+Link to PR - [https://github.com/mediacms-io/mediacms/pull/273](https://github.com/mediacms-io/mediacms/pull/273)<br/><br/>
 <img src="https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/cli.gif">
 <p align="center"> Glimpse of CLI tool</p>
 ## :computer: Pull Request Statistics
@@ -113,7 +114,7 @@ A list of all the pull requests that I created during GSoC coding period:
 From working on personal projects, to working on a production grade application, the Google Summer of Code was one heck of an eventful journey for me. Learning by doing is the best possible learning experience that anyone can have. And I am grateful of having the opportunity to be part of such an amazing program :heart: <br/><br/>
 Thank you [Markos](https://github.com/mgogoulos) for being such an amazing mentor. A mentee is as good as his/her mentor is, and I am so glad that you were there to guide me at every step. Your guidance has helped me a lot to grow as an individual! <br/><br/>
 Special thanks to [Philip](https://github.com/swiftugandan) for helping me understand the deployment process of the entire project and [Yiannis](https://github.com/styiannis) for helping me out with the frontend components! <br/><br/>
-To the reader who is reading this, thank you for making it so far. I know I speak for every developer out there, when I say <u>it means a lot</u> when you choose to look at their journey or their work product; it could as well be a tiny website, or it could be as big as designing a complete library.<br/>
+To the reader who is reading this, thank you for making it so far. I know I speak for every developer out there, when I say <u>it means a lot</u> when you choose to look at their journey or their work product; it could as well be a tiny website, or it could be as big as designing a complete library.<br/><br/>
 ![Team MediaCMS](https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/team.png)
 <p align="center"> Team MediaCMS</p>
 
