@@ -21,9 +21,10 @@ The theme and goal was to improve the user experience as well as deployment expe
 ### Internationalization
 Internationalization describes the process of designing products to meet the needs of users in many countries or designing them so they can be easily modified, to achieve this goal.<br/> 
 The endgoal of this project is to make sure that the project is as inclusive as possible for our evergrowing users from different geographies. This project's integration will open doors for us to make sure that further translations are easy and thus the community can support us for the same! <br/>
-This was achieved by using [react-i18next](https://react.i18next.com/) <br/>
+This was achieved by using [react-i18next](https://react.i18next.com/) <br/><br/>
 Link to the PR - [https://github.com/mediacms-io/mediacms/pull/251](https://github.com/mediacms-io/mediacms/pull/251) <br/>
 <img src="https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/i18n.gif">
+<p align="center"> Glimpse of internationalization</p>
 
 ### Segregation of Dev and Prod envs
 For every open-source project to be successful and grow at a great pace, it is essential that the project should be more developer friendly. <br/>
@@ -31,11 +32,12 @@ Thus it was necessary to segregate the development and production environments s
 - Creation of new dockerfile for dev.
 - Creation of new docker-compose for dev.
 - Seperating all python dependencies into two files, ie, `requirements.txt` and `requirements-dev.txt`
-Link to PR - [https://github.com/mediacms-io/mediacms/pull/218](https://github.com/mediacms-io/mediacms/pull/218)
+<br/>
+Link to PR - [https://github.com/mediacms-io/mediacms/pull/218](https://github.com/mediaccms-io/mediacms/pull/218)
 
 ### Addition of UI based tests
 The MediaCMS is not completely a single page application (soon going to be converted!). So there was a need to test django form components. <br/>
-I used [Selenium](https://django-selenium.readthedocs.io/en/latest/) as a tool to test UI components. The big challenge was to integrate everything as a docker runtime, so for that I used [docker-selenium](https://github.com/SeleniumHQ/docker-selenium).<br/>
+I used [Selenium](https://django-selenium.readthedocs.io/en/latest/) as a tool to test UI components. The big challenge was to integrate everything as a docker runtime, so for that I used [docker-selenium](https://github.com/SeleniumHQ/docker-selenium).<br/><br/>
 Link to PR - [https://github.com/mediacms-io/mediacms/pull/236](https://github.com/mediacms-io/mediacms/pull/236)
 
 ### Imrpovement of code quality via Linting
@@ -49,7 +51,10 @@ The idea behind this tool is to act like a CLI based wrapper around already exis
 - Schedule file uploads.
 - Checking various info and metadata about files for reference.
 - Bulk uploading files to server.
-![Language Translation]("https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/cli.gif")
+<br/>
+Link to PR - [https://github.com/mediacms-io/mediacms/pull/273](https://github.com/mediacms-io/mediacms/pull/273)<br/>
+<img src="https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/cli.gif">
+<p align="center"> Glimpse of CLI tool</p>
 ## :computer: Pull Request Statistics
 A list of all the pull requests that I created during GSoC coding period:
 <table>
@@ -105,10 +110,10 @@ A list of all the pull requests that I created during GSoC coding period:
 </table>
 
 ## :star: Acknowledgements
-From working on personal projects, to working on a production grade application, the Google Summer of Code was one heck of an eventful journey for me. Learning by doing is the best possible learning experience that anyone can have. And I am grateful of having the opportunity to be part of such an amazing program :heart: <br/>
-Thank you [Markos](https://github.com/mgogoulos) for being such an amazing mentor. A mentee is as good as his/her mentor is, and I am so glad that you were there to guide me at every step. Your guidance has helped me a lot to grow as an individual! <br/>
-Special thanks to [Philip](https://github.com/swiftugandan) for helping me understand the deployment process of the entire project and [Yiannis](https://github.com/styiannis) for helping me out with the frontend components! <br/>
-To the reader who is reading this, thank you for making it so far. I know I speak for every developer out there, when I say <u>it means a lot</u> when you choose to look at their journey or their work product; it could as well be a tiny website, or it could be as big as designing a complete library.
+From working on personal projects, to working on a production grade application, the Google Summer of Code was one heck of an eventful journey for me. Learning by doing is the best possible learning experience that anyone can have. And I am grateful of having the opportunity to be part of such an amazing program :heart: <br/><br/>
+Thank you [Markos](https://github.com/mgogoulos) for being such an amazing mentor. A mentee is as good as his/her mentor is, and I am so glad that you were there to guide me at every step. Your guidance has helped me a lot to grow as an individual! <br/><br/>
+Special thanks to [Philip](https://github.com/swiftugandan) for helping me understand the deployment process of the entire project and [Yiannis](https://github.com/styiannis) for helping me out with the frontend components! <br/><br/>
+To the reader who is reading this, thank you for making it so far. I know I speak for every developer out there, when I say <u>it means a lot</u> when you choose to look at their journey or their work product; it could as well be a tiny website, or it could be as big as designing a complete library.<br/>
 ![Team MediaCMS](https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/team.png)
 <p align="center"> Team MediaCMS</p>
 
