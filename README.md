@@ -122,7 +122,7 @@ To the reader who is reading this, thank you for making it so far. I know I spea
 Well, I am grateful that I was able to work on this amazing project, and I will continue to work on this project. Open Source is all about contributing to the best of your abilities to the projects in which you believe and this belief should never be restricted just to standard Open Source programs. It should grow further!<br/>
 If you are a contributor reading this blog, head over to [MediaCMS Repo](https://github.com/mediacms-io/mediacms). You are always welcome to help us grow as a project. Feel free to raise PRs, submit issues, discuss any ideas you have!
 <br/>
-<h4 align="left">Thank you for reading my journey. You can connect with me at:</h4>
+<h4 align="left">Thank you for visitng my blog!. You can connect with me at:</h4>
 <p align="center">
 <a href="https://twitter.com/19_saxena"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/shubhank-saxena"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
