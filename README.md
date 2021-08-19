@@ -112,18 +112,18 @@ A list of all the pull requests that I created during GSoC coding period:
 </table>
 
 ## :star: Acknowledgements
-From working on personal projects, to working on a production grade application, the Google Summer of Code was one heck of an eventful journey for me. Learning by doing is the best possible learning experience that anyone can have. And I am grateful of having the opportunity to be part of such an amazing program :heart: <br/><br/>
-Thank you [Markos](https://github.com/mgogoulos) for being such an amazing mentor. A mentee is as good as his/her mentor is, and I am so glad that you were there to guide me at every step. Your guidance has helped me a lot to grow as an individual! <br/><br/>
+From working on personal projects, to working on a production grade application, the Google Summer of Code was such an eventful journey. Learning by doing is the best possible experience that anyone can have, and I am grateful of having the opportunity to be part of such an amazing program :heart: <br/><br/>
+Thank you [Markos](https://github.com/mgogoulos) for being such an amazing mentor. I am so glad to have you as my guide at every step of my GSoC journey. It was your guidance that helped me grow a lot as a developer.<br/><br/>
 Special thanks to [Philip](https://github.com/swiftugandan) for helping me understand the deployment process of the entire project and [Yiannis](https://github.com/styiannis) for helping me out with the frontend components! <br/><br/>
-To the reader who is reading this, thank you for making it so far. I know I speak for every developer out there, when I say <u>it means a lot</u> when you choose to look at their journey or their work product; it could as well be a tiny website, or it could be as big as designing a complete library.<br/><br/>
+To the reader who is reading this, thank you for making it so far. I know I speak for every developer out there, when I say <u>it means a lot</u> when you choose to look at someone's journey or their work product; it could as well be a tiny website, or it could be as big as designing a complete library.<br/><br/>
 ![Team MediaCMS](https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/team.png)
 <p align="center"> Team MediaCMS</p>
 
 ## What's next?
-Well, I am grateful that I was able to work on this amazing project, and I will continue to work on this project. Open Source is all about contributing to the best of your abilities to the projects in which you believe and this belief should never be restricted just to standard Open Source programs. It should grow further!<br/>
-If you are a contributor reading this blog, head over to [MediaCMS Repo](https://github.com/mediacms-io/mediacms). You are always welcome to help us grow as a project. Feel free to raise PRs, submit issues, discuss any ideas you have!
+I am grateful that I was able to work on this amazing project and I will continue to work further. Open Source is all about contributing as a community and should not be restricted to standard Open Source programs.<br/>
+[MediaCMS Repo](https://github.com/mediacms-io/mediacms) is an amazing beginner friendly project and I encourage anyone interested, should contribute. Do reach out to me for any queries.
 <br/>
-<h4 align="left">Thank you for visitng my blog!. You can connect with me at:</h4>
+<h4 align="left">Thank you! You can connect with me at:</h4>
 <p align="center">
 <a href="https://twitter.com/19_saxena"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/shubhank-saxena"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
