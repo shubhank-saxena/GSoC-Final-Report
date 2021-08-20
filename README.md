@@ -32,8 +32,8 @@ For every open-source project to be successful and grow at a great pace, it is e
 Thus it was necessary to segregate the development and production environments so that developers can run the project locally with bare-minimum configuration. The following was achieved by - 
 - Creation of new dockerfile for dev.
 - Creation of new docker-compose for dev.
-- Seperating all python dependencies into two files, ie, `requirements.txt` and `requirements-dev.txt`
-<br/>
+- Seperating all python dependencies into two files, ie, `requirements.txt` and `requirements-dev.txt`<br/>
+
 Link to PR - [https://github.com/mediacms-io/mediacms/pull/218](https://github.com/mediacms-io/mediacms/pull/218)
 
 ### Addition of UI based tests
