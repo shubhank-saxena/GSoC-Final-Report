@@ -53,7 +53,6 @@ The idea behind this tool is to act like a CLI based wrapper around already exis
 - Schedule file uploads.
 - Checking various info and metadata about files for reference.
 - Bulk uploading files to server.
-<br/>
 Link to PR - [https://github.com/mediacms-io/mediacms/pull/273](https://github.com/mediacms-io/mediacms/pull/273)
 <br/><br/>
 <img src="https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/cli.gif">
