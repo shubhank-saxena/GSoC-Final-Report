@@ -33,7 +33,8 @@ Thus it was necessary to segregate the development and production environments s
 - Creation of new dockerfile for dev.
 - Creation of new docker-compose for dev.
 - Seperating all python dependencies into two files, ie, `requirements.txt` and `requirements-dev.txt`
-<br/>
+<br/><br/>
+
 Link to PR - [https://github.com/mediacms-io/mediacms/pull/218](https://github.com/mediaccms-io/mediacms/pull/218)
 
 ### Addition of UI based tests
