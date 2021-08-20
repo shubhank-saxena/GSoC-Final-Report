@@ -13,6 +13,13 @@ My proposal was selected for `MediaCMS - modern, fully featured video and media 
 `MediaCMS` is a modern, fully featured open-source video and media CMS. It is developed to meet the needs of modern web platforms for viewing and sharing media. It can be used to build a small to medium video and media portal within minutes.<br/>
 It is built mostly using the modern stack `Django + React, Celery` and includes a `REST API`. `MediaCMS` is a very useful project empowering communities around the globe to host their own media and content management system. It also helps educational institutes to manage their media and course curriculum by supporting various media formats like Video, Audio, PDF. Docs, etc.
 
+## :email: Communication during development period
+Before the GSoC, contributors communicated with each other either through GitHub discussions or async via mail. Since GSoC needed more of regular discussion (more on a personal level), it was decided that we need to have our own instant messaging platform. <br/>
+And thus we hosted our own instance of Mattermost! [Mattermost](https://mattermost.com/) is an open source, self hosted alternate of Slack which has immense amount of support for third party plugins and the end to end communication is quite secure.<br/>
+
+![Our Mattermost](https://github.com/shubhank-saxena/GSoC-Final-Report/blob/master/src/mattermost.png)
+<p align="center"> Our Mattermost Instance</p>
+
 ## 📝 About the project(s)
 (PS: here’s [the link](https://github.com/shubhank-saxena/gsoc-proposals/blob/master/GFOSS_MediaCMS_Proposal.pdf) to my GSoC proposal, if you’re interested!) <br/>
 The aim of my project(s) was to improve the existing features of MediaCMS and add some new broad features.<br/>
